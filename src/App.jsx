@@ -1,3 +1,6 @@
-export default function App() {
-  return (<h1>Hello!</h1>)
+import './styles/global.scss'
+
+export function App() {
+
+  return <h1>Hello!!!</h1>
 }
